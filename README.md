@@ -11,6 +11,8 @@ THIS IS EDIT 2
 
 EDIT 3 DONE FROM VI, HEHE :WQ BANG BANG
 
+EDIT 4 dear god what did i do wrong
+
 1. FORK this repository, creating a copy on your own GitHub account
 
 2. Then clone your fork down to your local computer
