@@ -6,6 +6,8 @@ MONKE DID EDIT HERE HEHE OOK OOK
 
 THIS IS EDIT 2
 
+EDIT 3 DONE FROM VI, HEHE :WQ BANG BANG
+
 1. FORK this repository, creating a copy on your own GitHub account
 
 2. Then clone your fork down to your local computer
